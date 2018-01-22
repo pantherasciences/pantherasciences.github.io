@@ -6,8 +6,8 @@ layout: null
 	<channel>
 		<title>Panthera Sciences</title>
 		<description>The Panthera Sciences website - complete with a full project index and a blog so you can stay up to date.</description>
-		<link>http://pantherasciences.com</link>
-		<atom:link href="http://pantherasciences.com/feed/index.xml" rel="self" type="application/rss+xml" />
+		<link>http://pantherasciences.github.io</link>
+		<atom:link href="http://pantherasciences.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Fuel, Gears, and Lots of Velcro</title>
@@ -18,8 +18,8 @@ layout: null
 </description>
 				
 				<pubDate>Sun, 22 Jan 2017 08:44:13 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/miscellaneous/spring-frc-update</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/spring-frc-update</guid>
+				<link>http://pantherasciences.github.io/blog/miscellaneous/spring-frc-update</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/miscellaneous/spring-frc-update</guid>
 			</item>
 		
 			<item>
@@ -31,8 +31,8 @@ layout: null
 </description>
 				
 				<pubDate>Fri, 16 Sep 2016 00:24:08 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/miscellaneous/fall-2016-approach</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/fall-2016-approach</guid>
+				<link>http://pantherasciences.github.io/blog/miscellaneous/fall-2016-approach</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/miscellaneous/fall-2016-approach</guid>
 			</item>
 		
 			<item>
@@ -44,8 +44,8 @@ layout: null
 </description>
 				
 				<pubDate>Tue, 02 Aug 2016 00:21:41 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/miscellaneous/ch-ch-ch-ch-changes</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/ch-ch-ch-ch-changes</guid>
+				<link>http://pantherasciences.github.io/blog/miscellaneous/ch-ch-ch-ch-changes</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/miscellaneous/ch-ch-ch-ch-changes</guid>
 			</item>
 		
 			<item>
@@ -57,8 +57,8 @@ layout: null
 </description>
 				
 				<pubDate>Thu, 16 Jun 2016 00:13:26 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-5-results-and-a-reflection-on-the-hab-series</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-5-results-and-a-reflection-on-the-hab-series</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-5-results-and-a-reflection-on-the-hab-series</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-5-results-and-a-reflection-on-the-hab-series</guid>
 			</item>
 		
 			<item>
@@ -70,8 +70,8 @@ layout: null
 </description>
 				
 				<pubDate>Mon, 30 May 2016 18:00:38 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/miscellaneous/middle-school-intramurals</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/middle-school-intramurals</guid>
+				<link>http://pantherasciences.github.io/blog/miscellaneous/middle-school-intramurals</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/miscellaneous/middle-school-intramurals</guid>
 			</item>
 		
 			<item>
@@ -83,8 +83,8 @@ layout: null
 </description>
 				
 				<pubDate>Fri, 06 May 2016 00:10:10 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-5-check-in-and-details</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-5-check-in-and-details</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-5-check-in-and-details</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-5-check-in-and-details</guid>
 			</item>
 		
 			<item>
@@ -96,8 +96,8 @@ layout: null
 </description>
 				
 				<pubDate>Tue, 19 Apr 2016 00:05:27 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/gsbc-2016-hab-5-introduction-and-launch-plan</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/gsbc-2016-hab-5-introduction-and-launch-plan</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/gsbc-2016-hab-5-introduction-and-launch-plan</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/gsbc-2016-hab-5-introduction-and-launch-plan</guid>
 			</item>
 		
 			<item>
@@ -109,8 +109,8 @@ layout: null
 </description>
 				
 				<pubDate>Mon, 15 Feb 2016 22:56:54 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/miscellaneous/an-exciting-new-era-makerspace-development</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/an-exciting-new-era-makerspace-development</guid>
+				<link>http://pantherasciences.github.io/blog/miscellaneous/an-exciting-new-era-makerspace-development</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/miscellaneous/an-exciting-new-era-makerspace-development</guid>
 			</item>
 		
 			<item>
@@ -122,8 +122,8 @@ layout: null
 </description>
 				
 				<pubDate>Thu, 11 Feb 2016 20:45:57 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/miscellaneous/community-outreach-and-workshops</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/community-outreach-and-workshops</guid>
+				<link>http://pantherasciences.github.io/blog/miscellaneous/community-outreach-and-workshops</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/miscellaneous/community-outreach-and-workshops</guid>
 			</item>
 		
 			<item>
@@ -135,8 +135,8 @@ layout: null
 </description>
 				
 				<pubDate>Mon, 07 Dec 2015 20:45:43 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/miscellaneous/spring-2016-roadmap</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/spring-2016-roadmap</guid>
+				<link>http://pantherasciences.github.io/blog/miscellaneous/spring-2016-roadmap</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/miscellaneous/spring-2016-roadmap</guid>
 			</item>
 		
 			<item>
@@ -148,8 +148,8 @@ layout: null
 </description>
 				
 				<pubDate>Fri, 04 Dec 2015 20:45:19 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/lunarhab-launch-and-recovery</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/lunarhab-launch-and-recovery</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/lunarhab-launch-and-recovery</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/lunarhab-launch-and-recovery</guid>
 			</item>
 		
 			<item>
@@ -161,8 +161,8 @@ layout: null
 </description>
 				
 				<pubDate>Tue, 25 Aug 2015 21:45:02 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/lunarhab-description-and-planning</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/lunarhab-description-and-planning</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/lunarhab-description-and-planning</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/lunarhab-description-and-planning</guid>
 			</item>
 		
 			<item>
@@ -174,8 +174,8 @@ layout: null
 </description>
 				
 				<pubDate>Tue, 28 Jul 2015 21:44:29 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/gsbc-2015-winners-best-video</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/gsbc-2015-winners-best-video</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/gsbc-2015-winners-best-video</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/gsbc-2015-winners-best-video</guid>
 			</item>
 		
 			<item>
@@ -187,8 +187,8 @@ layout: null
 </description>
 				
 				<pubDate>Wed, 27 May 2015 21:44:11 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-4-a-stepping-stone-to-lunarhab</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-4-a-stepping-stone-to-lunarhab</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-4-a-stepping-stone-to-lunarhab</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-4-a-stepping-stone-to-lunarhab</guid>
 			</item>
 		
 			<item>
@@ -200,8 +200,8 @@ layout: null
 </description>
 				
 				<pubDate>Sun, 24 May 2015 21:43:37 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-3-global-space-balloon-challenge-video-entry</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-3-global-space-balloon-challenge-video-entry</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-3-global-space-balloon-challenge-video-entry</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-3-global-space-balloon-challenge-video-entry</guid>
 			</item>
 		
 			<item>
@@ -213,8 +213,8 @@ layout: null
 </description>
 				
 				<pubDate>Fri, 22 May 2015 21:43:19 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-3-technical-overview</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-3-technical-overview</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-3-technical-overview</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-3-technical-overview</guid>
 			</item>
 		
 			<item>
@@ -226,8 +226,8 @@ layout: null
 </description>
 				
 				<pubDate>Thu, 21 May 2015 21:42:39 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-3-launch-and-recovery</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-3-launch-and-recovery</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-3-launch-and-recovery</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-3-launch-and-recovery</guid>
 			</item>
 		
 			<item>
@@ -239,8 +239,8 @@ layout: null
 </description>
 				
 				<pubDate>Tue, 19 May 2015 21:42:23 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/a-short-film-on-hab-2</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/a-short-film-on-hab-2</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/a-short-film-on-hab-2</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/a-short-film-on-hab-2</guid>
 			</item>
 		
 			<item>
@@ -252,8 +252,8 @@ layout: null
 </description>
 				
 				<pubDate>Tue, 28 Apr 2015 21:42:05 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-3-final-touches-and-launch-plans</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-3-final-touches-and-launch-plans</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-3-final-touches-and-launch-plans</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-3-final-touches-and-launch-plans</guid>
 			</item>
 		
 			<item>
@@ -265,8 +265,8 @@ layout: null
 </description>
 				
 				<pubDate>Sat, 18 Apr 2015 21:41:29 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-3-structural-and-electronic-progress</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-3-structural-and-electronic-progress</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-3-structural-and-electronic-progress</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-3-structural-and-electronic-progress</guid>
 			</item>
 		
 			<item>
@@ -278,8 +278,8 @@ layout: null
 </description>
 				
 				<pubDate>Thu, 09 Apr 2015 21:41:06 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-3-improvements-from-hab-2-and-goals-for-gsbc</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-3-improvements-from-hab-2-and-goals-for-gsbc</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-3-improvements-from-hab-2-and-goals-for-gsbc</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-3-improvements-from-hab-2-and-goals-for-gsbc</guid>
 			</item>
 		
 			<item>
@@ -291,8 +291,8 @@ layout: null
 </description>
 				
 				<pubDate>Wed, 08 Apr 2015 21:40:43 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/rockets/tarc-2015-summary-and-qualification-flights</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/rockets/tarc-2015-summary-and-qualification-flights</guid>
+				<link>http://pantherasciences.github.io/blog/rockets/tarc-2015-summary-and-qualification-flights</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/rockets/tarc-2015-summary-and-qualification-flights</guid>
 			</item>
 		
 			<item>
@@ -304,8 +304,8 @@ layout: null
 </description>
 				
 				<pubDate>Tue, 07 Apr 2015 21:40:19 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-2-chase-and-recovery</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-2-chase-and-recovery</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-2-chase-and-recovery</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-2-chase-and-recovery</guid>
 			</item>
 		
 			<item>
@@ -317,8 +317,8 @@ layout: null
 </description>
 				
 				<pubDate>Sun, 05 Apr 2015 21:39:21 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-2-the-successful-launch-of-our-second-high-altitude-balloon</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-2-the-successful-launch-of-our-second-high-altitude-balloon</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-2-the-successful-launch-of-our-second-high-altitude-balloon</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-2-the-successful-launch-of-our-second-high-altitude-balloon</guid>
 			</item>
 		
 			<item>
@@ -330,8 +330,8 @@ layout: null
 </description>
 				
 				<pubDate>Mon, 16 Mar 2015 21:38:46 -0400</pubDate>
-				<link>http://pantherasciences.com/blog/rockets/tarc-2015-launch-test-2-recap</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/rockets/tarc-2015-launch-test-2-recap</guid>
+				<link>http://pantherasciences.github.io/blog/rockets/tarc-2015-launch-test-2-recap</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/rockets/tarc-2015-launch-test-2-recap</guid>
 			</item>
 		
 			<item>
@@ -343,8 +343,8 @@ layout: null
 </description>
 				
 				<pubDate>Thu, 05 Mar 2015 20:38:17 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/rockets/tarc-2015-launch-test-1-recap</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/rockets/tarc-2015-launch-test-1-recap</guid>
+				<link>http://pantherasciences.github.io/blog/rockets/tarc-2015-launch-test-1-recap</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/rockets/tarc-2015-launch-test-1-recap</guid>
 			</item>
 		
 			<item>
@@ -356,8 +356,8 @@ layout: null
 </description>
 				
 				<pubDate>Sun, 22 Feb 2015 20:37:48 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/rockets/tarc-2015-theres-a-solution-to-every-problem</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/rockets/tarc-2015-theres-a-solution-to-every-problem</guid>
+				<link>http://pantherasciences.github.io/blog/rockets/tarc-2015-theres-a-solution-to-every-problem</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/rockets/tarc-2015-theres-a-solution-to-every-problem</guid>
 			</item>
 		
 			<item>
@@ -369,8 +369,8 @@ layout: null
 </description>
 				
 				<pubDate>Tue, 17 Feb 2015 20:37:22 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/miscellaneous/spring-2015-outlook</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/spring-2015-outlook</guid>
+				<link>http://pantherasciences.github.io/blog/miscellaneous/spring-2015-outlook</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/miscellaneous/spring-2015-outlook</guid>
 			</item>
 		
 			<item>
@@ -382,8 +382,8 @@ layout: null
 </description>
 				
 				<pubDate>Thu, 12 Feb 2015 20:37:08 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-2-early-stages-and-progress</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-2-early-stages-and-progress</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-2-early-stages-and-progress</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-2-early-stages-and-progress</guid>
 			</item>
 		
 			<item>
@@ -395,8 +395,8 @@ layout: null
 </description>
 				
 				<pubDate>Sun, 08 Feb 2015 20:36:51 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/rockets/tarc-2015-preliminary-design</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/rockets/tarc-2015-preliminary-design</guid>
+				<link>http://pantherasciences.github.io/blog/rockets/tarc-2015-preliminary-design</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/rockets/tarc-2015-preliminary-design</guid>
 			</item>
 		
 			<item>
@@ -408,8 +408,8 @@ layout: null
 </description>
 				
 				<pubDate>Mon, 08 Dec 2014 20:36:24 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/panthera-sciences-will-be-competing-in-the-2015-global-space-balloon-challenge</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/panthera-sciences-will-be-competing-in-the-2015-global-space-balloon-challenge</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/panthera-sciences-will-be-competing-in-the-2015-global-space-balloon-challenge</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/panthera-sciences-will-be-competing-in-the-2015-global-space-balloon-challenge</guid>
 			</item>
 		
 			<item>
@@ -421,8 +421,8 @@ layout: null
 </description>
 				
 				<pubDate>Mon, 08 Dec 2014 20:35:51 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-1-chase-and-recovery</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-1-chase-and-recovery</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-1-chase-and-recovery</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-1-chase-and-recovery</guid>
 			</item>
 		
 			<item>
@@ -434,8 +434,8 @@ layout: null
 </description>
 				
 				<pubDate>Sat, 06 Dec 2014 20:35:38 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-1-launch</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-1-launch</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-1-launch</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-1-launch</guid>
 			</item>
 		
 			<item>
@@ -447,8 +447,8 @@ layout: null
 </description>
 				
 				<pubDate>Sat, 06 Dec 2014 20:35:19 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/hab-1-research-development-and-construction</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-1-research-development-and-construction</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/hab-1-research-development-and-construction</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/hab-1-research-development-and-construction</guid>
 			</item>
 		
 			<item>
@@ -460,8 +460,8 @@ layout: null
 </description>
 				
 				<pubDate>Fri, 28 Nov 2014 20:34:41 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/balloons/successful-launch-and-retrieval-of-our-first-high-altitude-balloon</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/successful-launch-and-retrieval-of-our-first-high-altitude-balloon</guid>
+				<link>http://pantherasciences.github.io/blog/balloons/successful-launch-and-retrieval-of-our-first-high-altitude-balloon</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/balloons/successful-launch-and-retrieval-of-our-first-high-altitude-balloon</guid>
 			</item>
 		
 			<item>
@@ -473,8 +473,8 @@ layout: null
 </description>
 				
 				<pubDate>Sun, 02 Feb 2014 20:33:32 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/weekend%20builds/introducing-project-x-hc1-the-newest-addition-to-panthera-sciences-experimental-operations</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/weekend%20builds/introducing-project-x-hc1-the-newest-addition-to-panthera-sciences-experimental-operations</guid>
+				<link>http://pantherasciences.github.io/blog/weekend%20builds/introducing-project-x-hc1-the-newest-addition-to-panthera-sciences-experimental-operations</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/weekend%20builds/introducing-project-x-hc1-the-newest-addition-to-panthera-sciences-experimental-operations</guid>
 			</item>
 		
 			<item>
@@ -486,8 +486,8 @@ layout: null
 </description>
 				
 				<pubDate>Thu, 23 Jan 2014 20:32:52 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/rockets/project-romulus-2014-update</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/rockets/project-romulus-2014-update</guid>
+				<link>http://pantherasciences.github.io/blog/rockets/project-romulus-2014-update</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/rockets/project-romulus-2014-update</guid>
 			</item>
 		
 			<item>
@@ -499,8 +499,8 @@ layout: null
 </description>
 				
 				<pubDate>Tue, 21 Jan 2014 20:32:05 -0500</pubDate>
-				<link>http://pantherasciences.com/blog/miscellaneous/project-remus-a-goal-for-the-long-term</link>
-				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/project-remus-a-goal-for-the-long-term</guid>
+				<link>http://pantherasciences.github.io/blog/miscellaneous/project-remus-a-goal-for-the-long-term</link>
+				<guid isPermaLink="true">http://pantherasciences.github.io/blog/miscellaneous/project-remus-a-goal-for-the-long-term</guid>
 			</item>
 		
 	</channel>
